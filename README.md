@@ -1,2 +1,2 @@
 # hello-world
-first trial 
+Hi! This is my first Github account!
